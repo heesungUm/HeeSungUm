@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![HeeSungUm's github stats](https://github-readme-stats.vercel.app/api?username=HeeSungUm&show_icons=true) <br>
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rehs96)](https://solved.ac/rehs96)
+![HeeSungUm's github stats](https://github-readme-stats.vercel.app/api?username=HeeSungUm&show_icons=true) [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rehs96)](https://solved.ac/rehs96)
